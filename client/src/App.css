@@ -1,0 +1,15 @@
+.App {
+    text-align: center;
+}
+
+.ant-layout {
+    min-height: 100%;
+}
+
+#root,body,html {
+    height: 100%;
+}
+
+.logo-header {
+    height: 60px;
+}
